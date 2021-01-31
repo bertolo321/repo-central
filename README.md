@@ -4,7 +4,7 @@
 
 1 -> Realizando stages, commits e checkout
 
-2 -> Executando operçãp clean
+2 -> Executando operaçãp clean
 
 3 -> Nomeando snapshot com tags
 
